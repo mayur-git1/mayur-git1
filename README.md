@@ -2,7 +2,7 @@
 👀 I’m interested in web development, QA testing, and exploring new technologies
 🌱 I’m currently learning JavaScript, React, and building responsive websites
 💞️ I’m looking to collaborate on open-source web development projects
-📫 How to reach me: [your email or LinkedIn link]
+📫 How to reach me: [mgsonawane2480@gmail.com]
 😄 Pronouns: He/Him
 ⚡ Fun fact: I can code for hours as long as I have coffee by my side!.
 
